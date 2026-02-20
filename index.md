@@ -27,3 +27,6 @@ measuring, and tuning HPC applications using MPI, OpenMP, and hybrid models.
 - Reduce communication overhead
 
 Performance is engineered through measurement and iteration.*
+
+
+# About
